@@ -25,27 +25,28 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img src="https://github-readme-stats.vercel.app/api?username=KazemiyaMione&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   <img src="https://stats.justsong.cn/api/github?username=KazemiyaMione" alt="KazemiyaMione from justsong" />
 </p>
+
 <p align="center">
-  <!-- GitHub 基础信息 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KazemiyaMione&show_icons=true&theme=gotham" alt="KazemiyaMione GitHub Stats" />
+  <!-- GitHub 基础信息（黑色主题） -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KazemiyaMione&show_icons=true&theme=dark" alt="KazemiyaMione GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- 常用语言 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazemiyaMione&layout=compact&theme=gotham" alt="KazemiyaMione Top Langs" />
+  <!-- 常用语言（黑色主题） -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazemiyaMione&layout=compact&theme=dark" alt="KazemiyaMione Top Langs" />
 </p>
 
 <p align="center">
-  <!-- 高亮活跃度摘要（justsong） -->
-  <img src="https://stats.justsong.cn/api/github?username=KazemiyaMione" alt="KazemiyaMione GitHub Summary (Justsong)" />
+  <!-- 高亮活跃度摘要（Justsong黑色风格，已是深色） -->
+  <img src="https://stats.justsong.cn/api/github?username=KazemiyaMione&theme=dark" alt="KazemiyaMione GitHub Summary (Justsong)" />
 </p>
 
 <p align="center">
-  <!-- GitHub contributions 3D 草图 -->
-  <img src="https://ghchart.rshah.org/7b72df/KazemiyaMione" alt="KazemiyaMione GitHub Contribution Chart" />
+  <!-- GitHub contributions 3D 草图（黑色默认） -->
+  <img src="https://ghchart.rshah.org/000000/KazemiyaMione" alt="KazemiyaMione GitHub Contribution Chart" />
 </p>
 
 <p align="center">
-  <!-- 动态贪吃蛇贡献图（可选） -->
+  <!-- 贪吃蛇图建议自行设置为黑底（默认就是深色，静态或 GitHub Action 支持） -->
   <img src="https://github.com/KazemiyaMione/KazemiyaMione/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
