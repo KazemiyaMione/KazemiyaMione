@@ -23,9 +23,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KazemiyaMione&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-    <img src="https://stats.justsong.cn/api/github?username=KazemiyaMione&show_icons=true&theme=gotham" alt="KazemiyaMione from justsong" />
 </p>
 
+my code type
 <p align="center">
   <!-- 常用语言（黑色主题） -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazemiyaMione&layout=compact&theme=dark" alt="KazemiyaMione Top Langs" />
