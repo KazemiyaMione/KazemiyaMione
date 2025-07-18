@@ -23,12 +23,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KazemiyaMione&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-  <img src="https://stats.justsong.cn/api/github?username=KazemiyaMione&theme=dark" alt="KazemiyaMione GitHub Summary (Justsong)" />
-</p>
-
-<p align="center">
-  <!-- GitHub 基础信息（黑色主题） -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KazemiyaMione&show_icons=true&theme=dark" alt="KazemiyaMione GitHub Stats" />
 </p>
 
 <p align="center">
@@ -36,12 +30,3 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazemiyaMione&layout=compact&theme=dark" alt="KazemiyaMione Top Langs" />
 </p>
 
-<p align="center">
-  <!-- 高亮活跃度摘要（Justsong黑色风格，已是深色） -->
-  <img src="https://stats.justsong.cn/api/github?username=KazemiyaMione&theme=dark" alt="KazemiyaMione GitHub Summary (Justsong)" />
-</p>
-
-<p align="center">
-  <!-- GitHub contributions 3D 草图（黑色默认） -->
-  <img src="https://ghchart.rshah.org/000000/KazemiyaMione" alt="KazemiyaMione GitHub Contribution Chart" />
-</p>
