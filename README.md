@@ -25,7 +25,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img src="https://github-readme-stats.vercel.app/api?username=KazemiyaMione&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 </p>
 
-my code type
+📊 my code type
 <p align="center">
   <!-- 常用语言（黑色主题） -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazemiyaMione&layout=compact&theme=dark" alt="KazemiyaMione Top Langs" />
